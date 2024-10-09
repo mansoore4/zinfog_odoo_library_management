@@ -1,0 +1,15 @@
+# Ignore macOS .DS_Store files
+*.DS_Store
+
+# Ignore Python __pycache__ directories
+__pycache__/
+__pycache__
+default.vim
+.DS_Store
+*.swp
+.~lock*
+*.pyc
+*.idea/
+*.__pycache__
+/.DS_Store
+*/.DS_Store
